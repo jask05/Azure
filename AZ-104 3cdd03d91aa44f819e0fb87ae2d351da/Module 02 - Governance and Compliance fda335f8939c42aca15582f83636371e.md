@@ -1,12 +1,30 @@
-# Module 01 - Identity
+# Module 02 - Governance and Compliance
 
-## 👥 Azure Active Directory
+## 🌎 Regiones
 
-> Suite basada en la nube que permite gestionar de manera segura el acceso a los servicios de Azure y a los recursos utilizados por los usuarios
-Proporciona gestión de aplicaciones, autenticación, gestión de dispositivos e identidad híbrida
-> 
+- Colección de datacenters.
+- Probé flexibilidad y escalado.
+- Conserva los datos de forma “residencial”.
+- Es recomendable utilizar regiones cerca del usuario final.
+- Existen servicios globales que son independientes a las regiones.
+- Están pareadas para tener una **alta disponibilidad**.
 
-![Untitled](Module%2001%20-%20Identity%20df73088e16964a968e01f61237411665/Untitled.png)
+## 📜 Azure Subscriptions
+
+- Unidad lógica del servicio de Azure que está enlazada a una cuenta de Azure.
+- Están aisladas unas con otras a nivel de seguridad y de facturación.
+- Incluye cuentas: identidades de Azure AD o en directorio de confianza (trabajo o colegio)
+
+**Utilización de la suscripción**
+
+| Subscription | Usage |
+| --- | --- |
+| Free | 200$ de crédito durante 30 días. Acceso gratuito y limitado durante 12 meses |
+| Pay-As-You-Go | Pago mensual |
+| Enterprise | Acuerdo que incluye descuentos |
+| Student | 100$ durante 12 meses |
+
+![Untitled](Module%2002%20-%20Governance%20and%20Compliance%20fda335f8939c42aca15582f83636371e/Untitled.png)
 
 ## Conceptos
 
